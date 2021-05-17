@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kushal-jaiswal
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html,css,javascript
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me :- kushalkj803@gmail.com
